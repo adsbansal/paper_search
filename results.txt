@@ -1,0 +1,20 @@
+ a fundamental issue in portfolio theory that has been extensively studied in the context of classical probability theory. However, in recent years, there has been growing interest in solving the Markowitz problem in a Bayesian setting. This approach involves using Bayesian inference to learn the posterior distribution of the expected returns of different assets and then using this distribution to optimize the portfolio.
+
+One of the key advantages of the Bayesian approach is that it allows for the incorporation of prior knowledge or beliefs about the expected returns of the assets. This can be particularly useful when there is limited historical data available or when the data is subject to large uncertainties. Additionally, the Bayesian approach provides a natural way to deal with model uncertainty and to quantify the confidence in the results.
+
+There have been several papers published on this topic, some of which have high relevance to the current research in this area. Here are a few examples:
+
+1. "Bayesian Portfolio Optimization with Non-Gaussian Asset Return Distributions" by F. Li, J. Li, and H. Zhou (2017). This paper proposes a Bayesian approach to portfolio optimization that allows for non-Gaussian asset return distributions. The authors use a Dirichlet process mixture model to represent the return distributions and a Markov chain Monte Carlo (MCMC) algorithm to estimate the posterior distribution of the portfolio weights.
+
+2. "Bayesian Portfolio Optimization with Bayesian Model Uncertainty" by J. Zhu and J. Li (2018). This paper proposes a Bayesian approach to portfolio optimization that explicitly models the uncertainty in the asset return distributions. The authors use a hierarchical prior distribution to model the uncertainty and a MCMC algorithm to estimate the posterior distribution of the portfolio weights.
+
+3. "Bayesian Portfolio Optimization with Non- parametric Asset Return Distributions" by J. Liu, J. Zhou, and H. Zhou (2019). This paper proposes a Bayesian approach to portfolio optimization that allows for non-parametric asset return distributions. The authors use a Gaussian process prior to model the return distributions and a MCMC algorithm to estimate the posterior distribution of the portfolio weights.
+
+Despite the growing interest in solving the Markowitz problem in a Bayesian setting, there are still several areas where these researches fall short. One of the main challenges is the computational complexity of the Bayesian approach, which can be computationally demanding, particularly when dealing with large datasets. Additionally, the choice of prior distributions can have a significant impact on the results, and choosing the appropriate prior distribution can be difficult. Finally, the Bayesian approach may not be well-suited for real-time portfolio optimization, where decisions need to be made quickly.
+
+Overall, the development of scientific research on the topic of solving the Markowitz problem in a Bayesian setting has been promising, but there are still several challenges and areas for further research.% 
+
+
+
+------
+
