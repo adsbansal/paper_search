@@ -1,0 +1,4 @@
+google_search_results==2.4.2
+langchain==0.0.321
+serpapi==0.1.4
+streamlit==1.20.0
